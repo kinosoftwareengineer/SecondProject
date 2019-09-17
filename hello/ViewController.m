@@ -16,7 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    NSLog(@"hello,woshi di san ci kan de ");
+    NSLog(@"hello,woshi di si ci kan de ");
 }
 
 
